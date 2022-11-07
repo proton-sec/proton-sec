@@ -1,16 +1,41 @@
-### Hi there 👋
+## protonsec ⚛️
+# If you want to grow your career in the field of IT and Hacking 👨‍💻 then do connect with us.
 
-<!--
-**proton-sec/proton-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Us
+We have already secured 1,000+ websites WorldWide through Responsible Disclosure and we are continously growing at ever inceasing Speed. If you also want to grow your career then you are at the right place.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />Learning Materials<br />
+🐧 Linux <br />
+💻 Hacking <br />
+😎 Kali Linux <br />
+🖥️ Cyber Security <br />
+🌐 Networking <br />
+📕 Teaching <br />
+🛠️ Great Repositories <br />
+📒 Learning Stuff <br />
+🌎 Publishing open source <br />
+
+
+
+💬 Ask me about ...<br />
+
+Ethical Hacking <br />
+Bug Bounties <br />
+Penetration Testing <br />
+Reverse Engineering <br />
+Computer Networking <br />
+Network Security <br />
+Cloud Security <br />
+Practical OSINT<br />
+Web Application Security <br />
+Android Application Pentesting <br />
+Vulnerability Assessment <br />
+
+## All the Recent Research 🔬 Writeups/Walkthroughs 🧾
+https://medium.com/@pingsec
+
+
+## Connect with Us on Social Media: 🤝<br />
+https://twitter.com/proton_sec<br />
+https://linkedin.com/in/<br />
