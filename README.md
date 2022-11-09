@@ -33,9 +33,10 @@ Android Application Pentesting <br />
 Vulnerability Assessment <br />
 
 ## All the Recent Research 🔬 Writeups/Walkthroughs 🧾
-https://medium.com/@pingsec
+[Latest Medium Article](https://protonsec.medium.com/)
 
 
 ## Connect with Us on Social Media: 🤝<br />
-https://twitter.com/proton_sec<br />
-https://linkedin.com/in/<br />
+`Medium` https://protonsec.medium.com/<br />
+`Twitter` https://twitter.com/proton_sec<br />
+`LinkedIn` https://www.linkedin.com/in/protonsec/<br />
